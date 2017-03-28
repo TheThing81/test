@@ -1,0 +1,14 @@
+* Links
+  - [[http://www.google.com][The best link]]
+* Lesson 1
+** Part one
+  This is some introduction to subject
+  - Example one
+  - Example two
+* Lesson 2
+** Part two
+  - Installed Emacs
+  - Install VIM
+* Lesson 3
+  - Introduction to Python
+* www.google.com
